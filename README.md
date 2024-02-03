@@ -13,6 +13,9 @@ Este é o meu projeto prático da DIO, onde criei um modelo de previsão de alug
 ## Coleta de Dados
 A fonte de dados é pública e disponível na seguinte URL: https://aka.ms/bike-rentals.
 
+## Modelos utilizados
+Os modelos utilizados foram RandomForest e LightGBM.
+
 ## Arquivos do Repositório
 
 - `endpoints.json`: Arquivo com os pontos de extremidade.
